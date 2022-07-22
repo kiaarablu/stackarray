@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\StacksArray\StacksArray\bin\Debug\StacksArray.exe.config
+D:\kia prjc\tamrin\StacksArray\StacksArray\bin\Debug\StacksArray.exe
+D:\kia prjc\tamrin\StacksArray\StacksArray\bin\Debug\StacksArray.pdb
+D:\kia prjc\tamrin\StacksArray\StacksArray\obj\Debug\StacksArray.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\StacksArray\StacksArray\obj\Debug\StacksArray.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\StacksArray\StacksArray\obj\Debug\StacksArray.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\StacksArray\StacksArray\obj\Debug\StacksArray.exe
+D:\kia prjc\tamrin\StacksArray\StacksArray\obj\Debug\StacksArray.pdb
